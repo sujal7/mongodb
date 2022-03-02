@@ -27,3 +27,29 @@
 ## Oficial Getting Started Docs: [Link](https://docs.mongodb.com/manual/tutorial/getting-started/)
 
 ## Learn About MongoDB Drivers: [Link](https://docs.mongodb.com/drivers/)
+
+## To Schema or Not To Schema
+
+![Schema](image/schemaornot.png)
+
+## Data Types
+
+![Data Types](image/dataTypes.png)
+
+## Data Types in MongoDB: [Link](https://docs.mongodb.com/manual/reference/bson-types/)
+
+## Data Schemas and Data Modelling
+
+![alt](image/dataSchemas.png)
+
+## Relations - Options
+
+![alt](image/relations.png)
+
+### One to One Relations - Embedded
+
+![alt](image/oneToOne.png)
+
+### One to One Relations - Using References
+
+![alt](image/oneToOneReferences.png)
