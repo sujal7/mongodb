@@ -96,3 +96,59 @@
 ## Schema Validation Example
 
 ![alt](image/schemaValidationExample.png)
+
+## Data Modelling & Structuring - Things to Consider
+
+![alt](image/thingsToConsider.png)
+
+## Module Summary
+
+![alt](image/moduleSummary2.png)
+
+## More on Schema Validation: [Link](https://docs.mongodb.com/manual/core/schema-validation/)
+
+## Diving Deep into CREATE Operations
+
+### Understanding writeConcern
+
+![alt](image/writeConcern.png)
+
+### Atomicity
+
+![alt](image/atomicity.png)
+
+### Module Summary
+
+![alt](image/moduleSummary3.png)
+
+Helpful Articles/ Docs:
+
+insertOne(): https://docs.mongodb.com/manual/reference/method/db.collection.insertOne/
+
+insertMany(): https://docs.mongodb.com/manual/reference/method/db.collection.insertMany/
+
+Atomicity: https://docs.mongodb.com/manual/core/write-operations-atomicity/#atomicity
+
+Write Concern: https://docs.mongodb.com/manual/reference/write-concern/
+
+Using mongoimport: https://docs.mongodb.com/manual/reference/program/mongoimport/index.html
+
+## Diving Deep into READ Operations
+
+### How Operators impact our Data?
+
+![alt](image/operators.png)
+
+![alt](image/operators2.png)
+
+### Understanding Cursors
+
+![alt](image/cursors.png)
+
+Helpful Articles/ Docs:
+
+More on find(): https://docs.mongodb.com/manual/reference/method/db.collection.find/
+
+More on Cursors: https://docs.mongodb.com/manual/tutorial/iterate-a-cursor/
+
+Query Operator Reference: https://docs.mongodb.com/manual/reference/operator/query/
