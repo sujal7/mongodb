@@ -238,3 +238,47 @@ Float vs Double vs Decimal - A Discussion on Precision: https://stackoverflow.co
 Number Ranges: https://social.msdn.microsoft.com/Forums/vstudio/en-US/d2f723c7-f00a-4600-945a-72da23cbc53d/can-anyone-explain-clearly-about-float-vs-decimal-vs-double-?forum=csharpgeneral
 
 Modelling Number/ Monetary Data in MongoDB: https://docs.mongodb.com/manual/tutorial/model-monetary-data/
+
+## MongoDB Security
+
+![alt](image/security.png)
+
+### Roles Based Access Control
+
+![alt](image/accessControl.png)
+
+### Why Roles?
+
+![alt](image/whyRoles.png)
+
+### Built-in Roles
+
+![alt](image/builtinRoles.png)
+
+### Transport Encryption
+
+![alt](image/transportEncryption.png)
+
+### Encryption at Rest
+
+![REST](image/encryptionAtRest.png)
+
+### Module Summary
+
+![alt](image/moduleSummary8.png)
+
+Helpful Articles/ Docs:
+
+Official "Encryption at Rest" Docs: https://docs.mongodb.com/manual/core/security-encryption-at-rest/
+
+Official Security Checklist: https://docs.mongodb.com/manual/administration/security-checklist/
+
+What is SSL/ TLS? => https://www.acunetix.com/blog/articles/tls-security-what-is-tls-ssl-part-1/
+
+Official MongoDB SSL Setup Docs: https://docs.mongodb.com/manual/tutorial/configure-ssl/
+
+Official MongoDB Users & Auth Docs: https://docs.mongodb.com/manual/core/authentication/
+
+Official Built-in Roles Docs: https://docs.mongodb.com/manual/core/security-built-in-roles/
+
+Official Custom Roles Docs: https://docs.mongodb.com/manual/core/security-user-defined-roles/
