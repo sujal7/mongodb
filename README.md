@@ -331,4 +331,16 @@ Helpful Articles/ Docs:
 
 Learn how to build a full RESTful API with Node.js: https://academind.com/learn/node-js/building-a-restful-api-with/
 
-## MongoDB Stitch
+## Stitch & MongoDB Realm
+
+![Stitch](image/stitch.png)
+
+![alt](image/serverless.png)
+
+Helpful Articles/ Docs:
+
+Official Stitch Docs: https://docs.mongodb.com/stitch/
+
+Complete Stitch Username + Password Auth Flow: https://docs.mongodb.com/stitch/authentication/userpass/
+
+Stitch Services (e.g. AWS S3): https://docs.mongodb.com/stitch/reference/partner-services/amazon-service/
