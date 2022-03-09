@@ -282,3 +282,47 @@ Official MongoDB Users & Auth Docs: https://docs.mongodb.com/manual/core/authent
 Official Built-in Roles Docs: https://docs.mongodb.com/manual/core/security-built-in-roles/
 
 Official Custom Roles Docs: https://docs.mongodb.com/manual/core/security-user-defined-roles/
+
+## Performance, Fault Tolerancy & Deployment
+
+![alt](image/performance.png)
+
+### What influences Performance?
+
+![alt](image/inluencesPerformance.png)
+
+### Sharding (Horizontal Scaling)
+
+![alt](image/sharding.png)
+
+### Deploying a MongoDB Server
+
+![alt](image/deploying.png)
+
+### MongoDB Atlas is a Managed Solution
+
+![alt](image/mongodbAtlas.png)
+
+### Module Summary
+
+![alt](image/moduleSummary9.png)
+
+Useful Articles/ Docs:
+
+Official Docs on Replica Sets: https://docs.mongodb.com/manual/replication/
+
+Official Docs on Sharding: https://docs.mongodb.com/manual/sharding/
+
+### Transactions
+
+![alt](image/transactions.png)
+
+Useful Articles/ Docs:
+
+Official Docs on Transactions: https://docs.mongodb.com/manual/core/transactions/
+
+## From Mongo Shell to Drivers
+
+### Splitting Work between Shell & Drivers
+
+![alt](image/shellsAndDrivers.png)
