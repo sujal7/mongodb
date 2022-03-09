@@ -326,3 +326,9 @@ Official Docs on Transactions: https://docs.mongodb.com/manual/core/transactions
 ### Splitting Work between Shell & Drivers
 
 ![alt](image/shellsAndDrivers.png)
+
+Helpful Articles/ Docs:
+
+Learn how to build a full RESTful API with Node.js: https://academind.com/learn/node-js/building-a-restful-api-with/
+
+## MongoDB Stitch
